@@ -1,0 +1,23 @@
+{
+  "name": "battlepool",
+  "version": "1.0.0",
+  "description": "battle royal with pool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taehyun-Lee/battlepool.git"
+  },
+  "author": "Taehyun Lee",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io":"*",
+    "express.io":"*"
+  },
+  "bugs": {
+    "url": "https://github.com/Taehyun-Lee/battlepool/issues"
+  },
+  "homepage": "https://github.com/Taehyun-Lee/battlepool#readme"
+}
